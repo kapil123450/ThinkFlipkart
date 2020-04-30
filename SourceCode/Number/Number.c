@@ -5,4 +5,9 @@ int main(){
 	
 
 	return 0;
+
+}
+int sub(){
+	int x , y;
+	return x-y;
 }
